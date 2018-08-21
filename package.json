@@ -1,0 +1,14 @@
+{
+  "name": "webapplication1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "load": "artillery run load.yml"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "artillery": "^1.6.0-22"
+  }
+}

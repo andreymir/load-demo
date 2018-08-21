@@ -1,0 +1,10 @@
+config:
+  target: http://localhost:5000
+  phases:
+    - duration: 600
+      arrivalRate: 3
+scenarios:
+  - name: Step 1
+    flow:
+      - get: 
+          url: /
