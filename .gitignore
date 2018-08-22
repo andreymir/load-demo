@@ -398,11 +398,7 @@ fabric.properties
 .idea/httpRequests
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
